@@ -1,0 +1,1 @@
+ 	Area	IntDen	RawIntDen	MinThr	MaxThr

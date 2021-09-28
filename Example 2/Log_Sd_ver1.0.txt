@@ -1,0 +1,83 @@
+Saving directory:
+F:\Research\moji clanki\mesanje\osnutek pred oddajo\software\primer za v navodila 2\
+sample stack or image for ch1:
+source file:
+C1-mk +  yfp.czi - mk +  yfp.czi #10_ch1_bin.tif
+stack size: 17
+sample stack or image for ch:2
+source file:
+C2-mk +  yfp.czi -  mk + yfp.czi #10_ch2_bin.tif
+stack size: 17
+sample stack or image for ch1:
+source file:
+segmax_ch1_bin_C1-216 mk + 196 yfp.czi - 216 mk + 196 yfp.czi #10_ch1_bin.tif
+stack size: 17
+sample stack or image for ch:2
+source file:
+segmax_ch2_bin_C2-216 mk + 196 yfp.czi - 216 mk + 196 yfp.czi #10_ch2_bin.tif
+stack size: 17
+sample stack or image for ch1:
+source file:
+segmin_ch1_bin_C1-216 mk + 196 yfp.czi - 216 mk + 196 yfp.czi #10_ch1_bin.tif
+stack size: 17
+sample stack or image for ch:2
+source file:
+segmin_ch2_bin_C2-216 mk + 196 yfp.czi - 216 mk + 196 yfp.czi #10_ch2_bin.tif
+stack size: 17
+dmax =1946
+dmin =7
+steps =21
+res_factor =0.75
+sampling_factor =0.001
+dmin sampling =3763
+resizing = 0
+calculation start:
+Date: 2021/8/31
+Time: 14:36:47:0
+total area of particles in image (stack) ch1:
+11999229
+total area of particles in image (stack) ch2:
+11952027
+distance (pix): 1946
+n of FOV: 3
+distance (pix): 1460
+n of FOV: 239
+distance (pix): 1095
+n of FOV: 727
+distance (pix): 821
+n of FOV: 1269
+distance (pix): 616
+n of FOV: 1772
+distance (pix): 462
+n of FOV: 2205
+distance (pix): 347
+n of FOV: 2560
+distance (pix): 260
+n of FOV: 2846
+distance (pix): 195
+n of FOV: 3069
+distance (pix): 146
+n of FOV: 3243
+distance (pix): 110
+n of FOV: 3374
+distance (pix): 83
+n of FOV: 3474
+distance (pix): 62
+n of FOV: 3552
+distance (pix): 47
+n of FOV: 3609
+distance (pix): 35
+n of FOV: 3655
+distance (pix): 26
+n of FOV: 3689
+distance (pix): 20
+n of FOV: 3712
+distance (pix): 15
+n of FOV: 3732
+distance (pix): 11
+n of FOV: 3747
+distance (pix): 8
+n of FOV: 3759
+distance (pix): 6
+n of FOV: 3767
+calculation end of Sd
