@@ -1,0 +1,22 @@
+ 	d of FOV	n of FOV	segregation level in your image (Sd^)	standard error of (Sd^)	segregation level in min seg image (Sd^min)	standard error of (Sd^min)	segregation level in max seg image (Sd^max)	standard error of (Sd^max)	multiscale spatial segergation level(MSSL)	standard eror of MSSL	multiscale spatial segergation distance (MSSD)[pix]	standard eror of MSSD	relative multiscale spatial segergation level (rMSSL-your image)	standard eror of rMSSL
+1	1.663E3	3.000E0	1.110E-16	0.000E0	1.110E-16	0.000E0	1.110E-16	0.000E0	your image:	your image:	your image:	your image:	3.068E-1	1.105E-1
+2	1.247E3	1.734E3	1.116E-1	1.777E-3	6.659E-2	7.999E-4	3.400E-1	7.193E-3	2.744E-1	4.127E-2	4.546E2	6.839E1	 	 
+3	9.350E2	5.303E3	1.901E-1	1.699E-3	8.387E-2	5.425E-4	5.777E-1	5.170E-3	max image:	max image:	max image:	max image:	 	 
+4	7.010E2	9.257E3	2.716E-1	1.767E-3	9.167E-2	6.561E-4	6.911E-1	3.641E-3	5.753E-1	8.628E-2	9.532E2	1.430E2	 	 
+5	5.260E2	1.293E4	3.276E-1	1.845E-3	1.035E-1	7.368E-4	7.642E-1	2.720E-3	min image:	min image:	min image:	min image:	 	 
+6	3.950E2	1.608E4	3.947E-1	1.813E-3	1.254E-1	8.097E-4	8.248E-1	2.170E-3	1.412E-1	2.141E-2	2.339E2	3.548E1	 	 
+7	2.960E2	1.869E4	4.611E-1	1.946E-3	1.733E-1	9.720E-4	8.863E-1	1.800E-3	 	 	 	 	 	 
+8	2.220E2	2.077E4	5.341E-1	2.041E-3	2.429E-1	1.264E-3	9.190E-1	1.526E-3	 	 	 	 	 	 
+9	1.670E2	2.238E4	5.972E-1	2.118E-3	3.187E-1	1.636E-3	9.443E-1	1.264E-3	 	 	 	 	 	 
+10	1.250E2	2.366E4	6.572E-1	2.133E-3	4.331E-1	1.738E-3	9.605E-1	1.063E-3	 	 	 	 	 	 
+11	9.400E1	2.462E4	7.174E-1	2.073E-3	5.578E-1	1.888E-3	9.713E-1	9.118E-4	 	 	 	 	 	 
+12	7.100E1	2.535E4	7.658E-1	2.034E-3	6.578E-1	2.031E-3	9.794E-1	7.591E-4	 	 	 	 	 	 
+13	5.300E1	2.592E4	8.099E-1	1.917E-3	7.474E-1	2.072E-3	9.859E-1	6.259E-4	 	 	 	 	 	 
+14	4.000E1	2.634E4	8.457E-1	1.825E-3	8.125E-1	1.991E-3	9.906E-1	5.051E-4	 	 	 	 	 	 
+15	3.000E1	2.667E4	8.757E-1	1.719E-3	8.613E-1	1.790E-3	9.935E-1	4.177E-4	 	 	 	 	 	 
+16	2.300E1	2.690E4	9.008E-1	1.559E-3	8.959E-1	1.611E-3	9.949E-1	3.635E-4	 	 	 	 	 	 
+17	1.700E1	2.710E4	9.214E-1	1.429E-3	9.244E-1	1.421E-3	9.965E-1	2.991E-4	 	 	 	 	 	 
+18	1.300E1	2.723E4	9.316E-1	1.370E-3	9.440E-1	1.246E-3	9.981E-1	1.965E-4	 	 	 	 	 	 
+19	1.000E1	2.733E4	9.471E-1	1.234E-3	9.574E-1	1.100E-3	9.990E-1	1.434E-4	 	 	 	 	 	 
+20	8.000E0	2.739E4	9.559E-1	1.144E-3	9.655E-1	9.954E-4	9.995E-1	8.322E-5	 	 	 	 	 	 
+21	6.000E0	2.746E4	9.652E-1	1.046E-3	9.747E-1	8.567E-4	9.999E-1	3.552E-5	 	 	 	 	 	 
