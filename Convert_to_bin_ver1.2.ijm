@@ -1,5 +1,10 @@
+//Copyright (c) 2021,  Iztok Dogsa and University of Ljubljana, Slovenia
+//All rights reserved.
+
+//This source code is licensed under the BSD-style license found in the
+//LICENSE file in the root directory of this source tree. 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// This ImageJ (Fiji) script was written by Iztok Dogsa, Biotechnical Faculty, University of Ljubljana, Slovenia//
+// 
 // iztok.dogsa@bf.uni-lj.si																						//
 //package: MSSegregation																						//
 //convert_to_bin.ijm ver 1.2																					//
