@@ -13,3 +13,7 @@ Example2: This folder contains log files and calculation files of segregation an
 https://figshare.com/s/5a4500aefaf368e97fe5
 
 The macros can be run in Fiji-ImageJ. For details, please, see the package_example_manual.pdf
+
+Cite: Iztok Dogsa, Ines Mandic-Mulec, Multiscale spatial segregation analysis in digital images: from biofilms, oats and raisins to Covid-19 epidemics, xx year, XX journal, xx vol, xx pages
+
+
