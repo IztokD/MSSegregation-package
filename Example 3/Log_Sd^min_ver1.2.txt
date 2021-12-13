@@ -1,0 +1,201 @@
+Saving directory:
+F:\DATA 1\Research\moji clanki\mesanje\osnutek pred oddajo\software\primer za navodila 3\mss\
+sample stack or image for ch1:
+source file:
+decod_21-03-2020_infected.tif
+stack size: 1
+sample stack or image for ch:2
+source file:
+decod_21-03-2020_non-infected.tif
+stack size: 1
+sample stack or image for ch1:
+source file:
+decod_21-03-2020_infected_max_seg.tif
+stack size: 1
+sample stack or image for ch:2
+source file:
+decod_21-03-2020_non-infected_max_seg.tif
+stack size: 1
+sample stack or image for ch1:
+source file:
+decod_21-03-2020_infected_min_seg.tif
+stack size: 1
+sample stack or image for ch:2
+source file:
+decod_21-03-2020_non-infected_min_seg.tif
+stack size: 1
+dmax =1520
+dmin =1
+steps =25
+res_factor =0.75
+sampling_factor =0.003
+dmin sampling =6925
+resizing = 0
+calculation start:
+Date: 2021/11/20
+Time: 12:7:20:0
+total area of particles in image (stack) ch1:
+83277.5303
+total area of particles in image (stack) ch2:
+96631857.5
+distance (pix): 1520
+n of FOV: 3
+distance (pix): 1140
+n of FOV: 436
+distance (pix): 855
+n of FOV: 1330
+distance (pix): 641
+n of FOV: 2321
+distance (pix): 481
+n of FOV: 3242
+distance (pix): 361
+n of FOV: 4033
+distance (pix): 271
+n of FOV: 4683
+distance (pix): 203
+n of FOV: 5206
+distance (pix): 152
+n of FOV: 5617
+distance (pix): 114
+n of FOV: 5934
+distance (pix): 86
+n of FOV: 6172
+distance (pix): 65
+n of FOV: 6354
+distance (pix): 49
+n of FOV: 6495
+distance (pix): 37
+n of FOV: 6601
+distance (pix): 28
+n of FOV: 6681
+distance (pix): 21
+n of FOV: 6744
+distance (pix): 16
+n of FOV: 6789
+distance (pix): 12
+n of FOV: 6825
+distance (pix): 9
+n of FOV: 6852
+distance (pix): 7
+n of FOV: 6871
+distance (pix): 5
+n of FOV: 6889
+distance (pix): 4
+n of FOV: 6898
+distance (pix): 3
+n of FOV: 6907
+distance (pix): 2
+n of FOV: 6916
+distance (pix): 1
+n of FOV: 6925
+calculation end of Sd
+total area of particles in image (stack) ch1:
+84204.0818
+total area of particles in image (stack) ch2:
+92895336.1
+distance (pix): 1520
+n of FOV: 3
+distance (pix): 1140
+n of FOV: 436
+distance (pix): 855
+n of FOV: 1330
+distance (pix): 641
+n of FOV: 2321
+distance (pix): 481
+n of FOV: 3242
+distance (pix): 361
+n of FOV: 4033
+distance (pix): 271
+n of FOV: 4683
+distance (pix): 203
+n of FOV: 5206
+distance (pix): 152
+n of FOV: 5617
+distance (pix): 114
+n of FOV: 5934
+distance (pix): 86
+n of FOV: 6172
+distance (pix): 65
+n of FOV: 6354
+distance (pix): 49
+n of FOV: 6495
+distance (pix): 37
+n of FOV: 6601
+distance (pix): 28
+n of FOV: 6681
+distance (pix): 21
+n of FOV: 6744
+distance (pix): 16
+n of FOV: 6789
+distance (pix): 12
+n of FOV: 6825
+distance (pix): 9
+n of FOV: 6852
+distance (pix): 7
+n of FOV: 6871
+distance (pix): 5
+n of FOV: 6889
+distance (pix): 4
+n of FOV: 6898
+distance (pix): 3
+n of FOV: 6907
+distance (pix): 2
+n of FOV: 6916
+distance (pix): 1
+n of FOV: 6925
+calculation end of Sd^max
+total area of particles in image (stack) ch1:
+79733.4008
+total area of particles in image (stack) ch2:
+93719579.8
+distance (pix): 1520
+n of FOV: 3
+distance (pix): 1140
+n of FOV: 436
+distance (pix): 855
+n of FOV: 1330
+distance (pix): 641
+n of FOV: 2321
+distance (pix): 481
+n of FOV: 3242
+distance (pix): 361
+n of FOV: 4033
+distance (pix): 271
+n of FOV: 4683
+distance (pix): 203
+n of FOV: 5206
+distance (pix): 152
+n of FOV: 5617
+distance (pix): 114
+n of FOV: 5934
+distance (pix): 86
+n of FOV: 6172
+distance (pix): 65
+n of FOV: 6354
+distance (pix): 49
+n of FOV: 6495
+distance (pix): 37
+n of FOV: 6601
+distance (pix): 28
+n of FOV: 6681
+distance (pix): 21
+n of FOV: 6744
+distance (pix): 16
+n of FOV: 6789
+distance (pix): 12
+n of FOV: 6825
+distance (pix): 9
+n of FOV: 6852
+distance (pix): 7
+n of FOV: 6871
+distance (pix): 5
+n of FOV: 6889
+distance (pix): 4
+n of FOV: 6898
+distance (pix): 3
+n of FOV: 6907
+distance (pix): 2
+n of FOV: 6916
+distance (pix): 1
+n of FOV: 6925
+calculation end of Sd^min
