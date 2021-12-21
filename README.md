@@ -3,7 +3,7 @@ This software package is intended to perform segregation analysis in digital ima
 
 1. Convert_to_bin_ver1.3.ijm  ---> Splitting the depicted two-components mixtures in digital image (or stack) into two binary digital images, where each image represents one component 
 
-2. Sim_seg_extremes_ver1.31.ijm ---> Based on output of Convert_to_bin_ver1.3.ijm, the images of most segregated case and least segregated (well mixed) case are simulated. These images represent segregation extremes.
+2. Sim_seg_extremes_ver1.32.ijm ---> Based on output of Convert_to_bin_ver1.3.ijm, the images of most segregated case and least segregated (well mixed) case are simulated. These images represent segregation extremes.
 
 3. MSS_calc_ver1.3.ijm ---> Multiscale spatial segregation calculations of the depicted two-components mixtures in digital image (or stack) are produced by taking into account images representing segregation extremes and two binary digital images, where each image represents one component (outputs of Sim_seg_extremes_ver1.3.ijm and Convert_to_bin_ver1.3.ijm).
 
