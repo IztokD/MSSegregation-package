@@ -23,7 +23,7 @@ The videos showing the re-make of the examples are avaialable on FigShare https:
 
 The macros can be run in Fiji-ImageJ. For details, please, see the package_example_manual.pdf
 
-Cite: Iztok Dogsa, Ines Mandic-Mulec, Multiscale spatial segregation analysis in digital images: from biofilms, oats and raisins to Covid-19 epidemics, xx year, XX journal, xx vol, xx pages
+Cite: Iztok Dogsa, Ines Mandic-Mulec, Multiscale spatial segregation analysis in digital images: from mixed-species biofilms to Covid-19 epidemics, xx year, XX journal, xx vol, xx pages
 
 
 
