@@ -1,5 +1,5 @@
 # MSSegregation-package
-This software package is intended to perform segregation analysis in digital images. Although primarily developed for microscopy of mixed species biofilm, it can be applied whenever the quantification of segregation level or mixing efficiency of two components is required and digital images of such a binary system can be obtained. The package is composed of three scripts written in ImageJ macro code:
+This software package is intended to perform segregation analysis in digital images. Although primarily developed for microscopy of mixed species biofilm, it can be applied whenever the quantification of segregation level or mixing efficiency of two components is required and digital images of such a binary system can be obtained. The package is composed of three scripts written in ImageJ macro code given in folder MSS_segration_package_software:
 
 1. Convert_to_bin_ver1.3.ijm  ---> Splitting the depicted two-components mixtures in digital image (or stack) into two binary digital images, where each image represents one component 
 
@@ -18,6 +18,7 @@ https://figshare.com/s/5a4500aefaf368e97fe5
 Example 3: This folder contains original input data in excel table SARS-COV2.xlsx and choropleth maps constructed from data in SARS-COV2.xlsx (via https://www.datawrapper.de/maps/choropleth-map)
 and decoded maps by decode_choropleth_ver1.3.ijm, log files and calculation files of segregation analysis by  MSS_calc_ver1.3.ijm are also stored here.
 
+Original images: This folder contains original (source) images that were used to perform all the analysis in article.
 
 The videos showing the re-make of the examples are avaialable on FigShare https://figshare.com/s/5a08f7b84a76586e1601
 
