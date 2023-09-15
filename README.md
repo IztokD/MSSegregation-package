@@ -5,7 +5,7 @@ This software package is intended to perform segregation analysis of particles d
 
 2. Sim_seg_extremes_ver1.34.ijm ---> Based on output of Convert_to_bin_ver1.3.ijm, the images of most segregated case and least segregated (well mixed) case are simulated. These images represent segregation extremes.
 
-3. MSS_calc_ver1.34.ijm ---> Multiscale spatial segregation calculations of the depicted two-components mixtures in digital image (or stack) are produced by taking into account images representing segregation extremes and two binary digital images, where each image represents one component (outputs of Sim_seg_extremes_ver1.34.ijm and Convert_to_bin_ver1.34.ijm).
+3. MSS_calc_ver1.35.ijm ---> Multiscale spatial segregation calculations of the depicted two-components mixtures in digital image (or stack) are produced by taking into account images representing segregation extremes and two binary digital images, where each image represents one component (outputs of Sim_seg_extremes_ver1.34.ijm and Convert_to_bin_ver1.34.ijm).
 
 
 Example 1: This folder contains original input image: t3.tif (oats and raisins) and all the output images of the macros 1, 2 and 3. In addition, also log files and calculation files of segregation analysis are given.
