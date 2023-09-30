@@ -20,8 +20,7 @@ The videos showing the re-make of the examples are avaialable on FigShare https:
 
 The macros can be run in Fiji-ImageJ. For details, please, see the MSSpackage_manual_verXX.pdf
 
-Cite: Iztok Dogsa, Ines Mandic-Mulec, Multiscale spatial segregation analysis in digital images of mixed-species biofilms, xx year, XX journal, xx vol, xx pages
-
-
+Cite: Iztok Dogsa, Ines Mandic-Mulec, Multiscale spatial segregation analysis in digital images of mixed-species biofilms, 2023, Biofilm, vol 6,100157
+https://doi.org/10.1016/j.bioflm.2023.100157
 
 
